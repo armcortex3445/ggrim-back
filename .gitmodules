@@ -1,0 +1,6 @@
+[submodule "ggrim-back-main"]
+	path = ggrim-back-main
+	url = https://github.com/armcortex3445/ggrim-back-main.git
+[submodule "ggrim-tool"]
+	path = ggrim-tool
+	url = https://github.com/armcortex3445/ggrim-tool.git
